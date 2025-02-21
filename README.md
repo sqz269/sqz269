@@ -4,6 +4,8 @@ Currently a 4th year CS student at Georgia Tech (as of 2025).
 
 I like systems, mainly interested in Operating Systems, Computer Architecture, FPGA, and other fairly low-level stuff. 
 
+Contact me at: *contact@\<my github username\>.me*
+
 <!--
 **sqz269/sqz269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
