@@ -8,7 +8,8 @@ I like systems, all sorts of systems:
 - High Performance Computing
 - Computer Systems & Architecture
 - Large Language Model Training & Inference Systems
-  - Researching: Improving LLM Inference Latency & Throughput
+
+Current Research Interest: Improving LLM/VLM Inference Latency & Throughput
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
