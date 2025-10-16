@@ -2,7 +2,13 @@
 
 Currently a 4th year CS student at Georgia Tech (as of 2025). 
 
-I like systems, mainly interested in Operating Systems, Computer Architecture, FPGA, and other fairly low-level stuff. 
+I like systems, all sorts of systems:
+- Operating Systems
+- Distributed Systems
+- High Performance Computing
+- Computer Systems & Architecture
+- Large Language Model Training & Inference Systems
+  - Researching: Improving LLM Inference Latency & Throughput
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
