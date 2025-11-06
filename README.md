@@ -13,6 +13,7 @@ Current Research Interest: Improving LLM/VLM Inference Latency & Throughput
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
+Check out my blog at: [blog.sqz269.me](https://blog.sqz269.me/)
 <!--
 **sqz269/sqz269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
