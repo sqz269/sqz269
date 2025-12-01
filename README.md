@@ -2,15 +2,6 @@
 
 Currently a 4th year CS student at Georgia Tech (as of 2025). 
 
-I like systems, all sorts of systems:
-- Operating Systems
-- Distributed Systems
-- High Performance Computing
-- Computer Systems & Architecture
-- Large Language Model Training & Inference Systems
-
-Current Research Interest: Improving LLM/VLM Inference Latency & Throughput
-
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
 Check out my blog at: [blog.sqz269.me](https://blog.sqz269.me/)
