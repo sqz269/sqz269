@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Zong
 
-Currently a 4th year CS student at Georgia Tech (as of 2025). 
+Graudated from Gerogia Tech December 2025
+
+Working as Software Engineer in San Francisco, California
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
