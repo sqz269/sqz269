@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Zong
-> Graduated from Georgia Tech December 2025, Computer Science  
-> Currently at San Francisco, California
+> Graduated from Georgia Tech December 2025, Computer Science
+
+Currently at San Francisco, California
 
 Currently: SWE at ⚙️ Mechanize
 
