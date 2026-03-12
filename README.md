@@ -1,12 +1,17 @@
 ## Hi there 👋, I'm Zong
+> Graduated from Georgia Tech December 2025, Computer Science  
+> Currently at San Francisco, California
 
-Graudated from Gerogia Tech December 2025
+Currently: SWE at ⚙️ Mechanize
 
-Working as Software Engineer in San Francisco, California at ⚙️ Mechanize
+Previously: SWE at ⛰️ Vertice AI
+
+I like AI, low level systems, music, gatcha, etc.
+
+Blog at: [blog.sqz269.me](https://blog.sqz269.me/)
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
-Check out my blog at: [blog.sqz269.me](https://blog.sqz269.me/)
 <!--
 **sqz269/sqz269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
