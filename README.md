@@ -2,7 +2,7 @@
 
 Graudated from Gerogia Tech December 2025
 
-Working as Software Engineer in San Francisco, California
+Working as Software Engineer in San Francisco, California at ⚙️ Mechanize
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
