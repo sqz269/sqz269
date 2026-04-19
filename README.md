@@ -3,7 +3,7 @@
 
 Currently at San Francisco, California
 
-Currently: SWE at ⚙️ Mechanize
+Currently: SWE at ⚙️ Mechanize, Inc.
 
 Previously: SWE at ⛰️ Vertice AI
 
