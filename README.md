@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Zong
 > Graduated from Georgia Tech December 2025, Computer Science
 
-Currently at San Francisco, California
+Currently at Mountain View, California
 
-Currently: SWE at ⚙️ Mechanize, Inc.
+Currently: SWE at 🧠 Google DeepMind
 
-Previously: SWE at ⛰️ Vertice AI
+Previously: SWE at ⚙️ Mechanize, Inc., SWE at ⛰️ Vertice AI
 
 I like AI, low level systems, music, gatcha, etc.
 
