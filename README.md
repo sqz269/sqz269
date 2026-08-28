@@ -9,7 +9,7 @@ Previously: SWE at ⚙️ Mechanize, Inc., SWE at ⛰️ Vertice AI
 
 I like AI, low level systems, music, gatcha, etc.
 
-Blog at: [blog.sqz269.me](https://blog.sqz269.me/)
+Checkout a cool site: [music.marisad.me](http://music.marisad.me/)
 
 Contact me at: **contact _at_ sqz269 _dot_ me**
 
