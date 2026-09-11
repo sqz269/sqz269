@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Zong
 
+> Personal projects and opinions here are my own and do not represent my employer.
+
 📌 Location: Mountain View, California
 
 💻 SWE at 🧠 Google DeepMind
@@ -12,4 +14,4 @@
 
 Checkout a cool site: [music.marisad.me](http://music.marisad.me/)
 
-Contact me at: **contact _at_ sqz269 _dot_ me**
+Contact me at: **zong _at_ sqz269 _dot_ me**
